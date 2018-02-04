@@ -1,5 +1,6 @@
 package com.huobi.response;
 
+import java.math.BigDecimal;
 import java.util.List;
 
 /**
